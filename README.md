@@ -15,3 +15,4 @@
   <a href="https://www.linkedin.com/in/rodrigo-fl%C3%A1vio-5b8036202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <!--<h2> E-mail:Rodrigoflavioalvesdacosta@gmail.com</h2>-->
     <h2> E-mail:rodrigo.craft15@gmail.com</h2>
+       <h2> E-mail:devhq.oficial@gmail.com</h2>
