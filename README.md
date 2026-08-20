@@ -20,6 +20,25 @@ Olá! Sou o **Rodrigo Flávio**, Desenvolvedor de Software Full-Stack apaixonado
 
 ---
 
+### ✅ O que eu entrego
+
+- Correções de produção em TypeScript, React, Node.js e PostgreSQL.
+- APIs REST/GraphQL, autenticação, permissões, jobs e integrações.
+- Testes de regressão, typecheck, lint e melhoria de CI.
+- Diagnóstico técnico com PR pequeno, documentado e pronto para revisão.
+
+### 🔎 Provas recentes
+
+- [OpenStatus #2590](https://github.com/openstatusHQ/openstatus/pull/2590) — contribuição mesclada em agosto de 2026.
+- [tRPC #7472](https://github.com/trpc/trpc/pull/7472) e [#7473](https://github.com/trpc/trpc/pull/7473) — correções de cancelamento HTTP e documentação.
+- [Payload #17842](https://github.com/payloadcms/payload/pull/17842) e [#17863](https://github.com/payloadcms/payload/pull/17863) — correções com testes de regressão.
+
+### 💼 Freelance remoto
+
+Disponível para projetos de escopo fechado: bugfix, API, testes, revisão de PR e diagnóstico de CI. Entre em contato pelo [LinkedIn](https://www.linkedin.com/in/rodrigo-fl%C3%A1vio-5b8036202/) ou [email](mailto:devhq.oficial@gmail.com) com o contexto do problema, prazo e critério de aceite.
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
@@ -68,3 +87,5 @@ Olá! Sou o **Rodrigo Flávio**, Desenvolvedor de Software Full-Stack apaixonado
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
+
+
