@@ -84,6 +84,14 @@ Disponível para projetos de escopo fechado: bugfix, API, testes, revisão de PR
 
 <br/>
 
+### 💖 Support My Open-Source Work
+
+If you find my projects and contributions helpful, consider sponsoring me on GitHub!
+
+<a href="https://github.com/sponsors/Rodrigoue9">
+  <img src="https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor Rodrigoue9" />
+</a>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
 </div>
